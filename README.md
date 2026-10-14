@@ -41,3 +41,10 @@ Requires Python 3 with matplotlib and pandas.
 ## Caveats (short version)
 
 The inventory is a snapshot dated June 30, 2026; categories move as investigations resolve unknown lines. The confirmed category includes galvanized-requiring-replacement lines, per Denver Water's own description. The replacements layer ends May 2, 2024, so no current pace is stated. Neighborhood is Denver Water's own field; two scopes (service area, City and County of Denver) are defined in the brief and never mixed. Full methods and caveats in the brief and in `verification.md`.
+
+
+## Reuse and citation
+
+This brief is free to cite, quote, and reuse under the CC BY 4.0 license (see LICENSE). If you use it, please credit Machine Readable and link back to this repository.
+
+Attribution line: Machine Readable (Alex Dowlen), https://github.com/adowlen/denver-lead-service-lines-data-brief
