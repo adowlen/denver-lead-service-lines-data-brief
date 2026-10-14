@@ -17,7 +17,6 @@ Read the full brief: [brief-draft.md](brief-draft.md)
 - `sources.md` - every figure in the brief with its named source
 - `verification.md` - methods checklist, independent verification ledger, layering admission test, reviewer notes
 - `social-drafts.md` - LinkedIn post and X thread drafts
-- `agency-heads-up-denver-water.md` - draft heads-up note to Denver Water (not sent)
 
 ## Data sources
 
