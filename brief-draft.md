@@ -1,0 +1,78 @@
+# Denver's lead service lines: 21,426 premises still in the replacement program
+
+**Machine Readable - a daily civic data brief**
+*Public data, synthesized. Free to read, cite and share.*
+
+**Data window:** Denver Water's lead service line inventory snapshot dated June 30, 2026 (published as a data layer July 8, 2026); Denver Water replacement records dated January 1, 2020 to May 2, 2024, the full range of dated records in the published replacements layer; Census Bureau American Community Survey 2024 5-year estimates (2020-2024) for the ZIP code income layer.
+
+**In one line:** Denver Water's June 30, 2026 inventory counts 21,426 premises still in its Lead Reduction Program; 18,775 of them are in the City and County of Denver, one in ten city premises, and the largest remaining counts sit in Platte Park, Washington Park and Berkeley.
+
+## TL;DR
+
+- Of 311,491 premises in Denver Water's service area inventory, 11,400 are classified as confirmed lead service lines (a category that, by Denver Water's own description, also holds galvanized lines that are or were downstream of a lead line), 10,026 are unknown but considered likely to be lead, 14,667 are unknown and considered unlikely, and 275,398 are classified non-lead.
+- Inside the City and County of Denver, 18,775 of 187,289 premises (10.0 percent) are in the program pool of confirmed plus likely lines. Five neighborhoods hold 5,868 of those premises, 31.3 percent of the city's pool.
+- In five neighborhoods - Country Club, Platte Park, Rosedale, Cheesman Park and Cory-Merrill - more than half of all inventoried premises are in the pool. Citywide the share is one in ten.
+- The replacements layer Denver Water publishes holds 24,748 replacement records, with dated records running from January 1, 2020 to May 2, 2024, an average of 5,609 per full year across 2020 to 2023. Clearing the pool counted in the June 30, 2026 inventory by the end of 2034, ahead of Denver Water's stated pre-2035 finish, would take an average of 2,521 premises per year; clearing it by the federal end-of-2037 deadline would take 1,863 per year. The published layer holds no dated records after May 2, 2024, so the current replacement rate is not in the public data.
+
+## What we used
+
+Two data layers published by Denver Water on its ArcGIS service, pulled in full on October 14, 2026: the Lead Service Line Inventory snapshot of June 30, 2026 (layer LSLI_20260630; 311,491 premises, each with a service line category, premise city, neighborhood, council district where assigned, and parcel year built) and the Lead Service Line Replacements layer (24,748 records with replacement dates, project types and before-and-after materials). Program and mandate facts come from Denver Water program pages and EPA's Lead and Copper Rule Improvements documents, read directly; each is attributed where it appears. The income layer uses Census Bureau ACS 2024 5-year median household income by ZIP Code Tabulation Area (table B19013). Address level rows are published by Denver Water itself; this package republishes no field the source does not publish, and the inventory contains no names or contact fields.
+
+Two scopes run through the findings. The **service area** is every premise in the file, including suburbs Denver Water serves directly or through distributors, among them Littleton, Lakewood, Centennial and Wheat Ridge. The **city** scope is the 187,289 premises whose premise city the file records as Denver. Neighborhood and district figures are city scope; program and pace figures are service area scope unless stated.
+
+Denver Water's four category labels, shortened here: **confirmed** ("Confirmed lead service line; included in the Lead Reduction Program"), **likely** ("Unknown; likely to have lead service line. Included in the Lead Reduction Program"), **unlikely** ("Unknown; unlikely to have lead service line. Not included in the Lead Reduction Program") and **non-lead**. The **program pool** is confirmed plus likely: the premises the file itself places inside the Lead Reduction Program.
+
+## Finding 1: 87.6 percent of the remaining pool is inside the city, and one suburb carries most of the rest
+
+Of the 21,426 pool premises in the service area, 18,775 (87.6 percent) are in the City and County of Denver. The city's confirmed count is 10,822, which is 5.8 percent of city premises and 94.9 percent of all confirmed lines in the service area.
+
+Outside the city, the pool concentrates in one place. Wheat Ridge holds 2,182 pool premises out of 7,941 inventoried premises (27.5 percent), and 1,886 of those are in the likely category rather than confirmed. The other large suburbs are near zero: Littleton holds 97 pool premises of 48,217 (0.2 percent), Lakewood 147 of 28,780 (0.5 percent), Englewood 114 of 7,492 (1.5 percent) and Edgewater 105 of 1,405 (7.5 percent).
+
+## Finding 2: Five neighborhoods hold 31.3 percent of the city's pool
+
+The largest remaining counts inside the city, by the neighborhood name recorded in Denver Water's file:
+
+- **Platte Park:** 1,636 pool premises (1,395 confirmed, 241 likely)
+- **Washington Park:** 1,265 (1,160 confirmed, 105 likely)
+- **Berkeley:** 1,168 (983 confirmed, 185 likely)
+- **Cory-Merrill:** 973 (767 confirmed, 206 likely)
+- **Country Club:** 826 (134 confirmed, 692 likely)
+
+The top five sum to 5,868 premises, 31.3 percent of the city's 18,775-premises pool. The top ten neighborhoods, adding Washington Park West, Hilltop, the University Hills area, University Park and Highland, hold 9,583 premises, 51.0 percent of the pool. At the other end, 47 of the 126 named areas in the city scope hold no pool premises at all, including most of the far northeast.
+
+By council district, the pool counts are: District 6, 4,532 premises; District 7, 3,295; District 1, 3,129; District 10, 2,074; District 5, 1,217; District 8, 1,170; District 4, 934; District 3, 853; District 9, 790; District 2, 156; District 11, zero. The file assigns a district to 171,265 of the 187,289 city premises.
+
+## Finding 3: In five neighborhoods, the pool is more than half of all premises
+
+Counts alone follow neighborhood size. Shares of each neighborhood's own premises give the base rate:
+
+- **Country Club:** 826 of 1,210 premises in the pool, 68.3 percent
+- **Platte Park:** 1,636 of 2,643, 61.9 percent
+- **Rosedale:** 605 of 1,100, 55.0 percent
+- **Cheesman Park:** 482 of 908, 53.1 percent
+- **Cory-Merrill:** 973 of 1,906, 51.1 percent
+- **Washington Park:** 1,265 of 2,891, 43.8 percent
+
+Seventeen neighborhoods sit at 25 percent or higher. By ZIP code, 80210 (Platte Park, Washington Park and Cory-Merrill) holds 4,935 pool premises, 38.6 percent of its 12,796 premises; 80209 holds 2,358 (31.0 percent) and 80218 holds 981 (31.9 percent). By council district, District 6 has the highest pool share at 27.4 percent (4,532 of 16,534 premises), followed by District 10 at 20.6 percent and District 7 at 18.2 percent. District 11, the far northeast, records no pool premises, and District 2 records 1.1 percent.
+
+## Finding 4: The remaining work is two different jobs - confirmed lines in the south-central neighborhoods, unconfirmed lines elsewhere
+
+The pool splits unevenly between lines Denver Water has confirmed and lines it has not yet identified. In Platte Park, 1,395 of the 1,636 pool premises (85.3 percent) are already confirmed. In Rosedale, 492 of 605 (81.3 percent) are confirmed.
+
+Elsewhere the pool is mostly unconfirmed. In Country Club, 692 of 826 pool premises (83.8 percent) are likely rather than confirmed. The University Hills area records 716 likely premises against 7 confirmed; North Park Hill records 378 likely against 81 confirmed; Northeast Park Hill records 360 likely against 59 confirmed. Wheat Ridge, outside the city, records 1,886 likely against 296 confirmed.
+
+Across the service area, 24,693 premises (7.9 percent) remain in an unknown category: 10,026 likely and 14,667 unlikely. The federal rule requires water systems to identify all unknown-material lines by the replacement deadline (EPA, LCRI frequently asked questions, 2024), so the likely counts above are a workload of investigations as well as replacements, and each investigation moves a premise to confirmed or to non-lead.
+
+## Finding 5: The pool follows the year the house was built, with a break at 1951
+
+Pool share of city premises by parcel year built, as recorded in the file:
+
+- 1920 or earlier: 5,614 pool of 26,809 premises, 20.9 percent
+- 1921 to 1940: 5,293 of 21,478, 24.6 percent
+- 1941 to 1950: 3,571 of 17,752, 20.1 percent
+- 1951 to 1960: 2,573 of 38,885, 6.6 percent
+- 1961 to 1975: 271 of 22,062, 1.2 percent
+- 1976 or later: 1,272 of 52,321, 2.4 percent
+
+Premises on parcels built in 1950 or earlier hold 14,478 of the city's 18,775 pool premises, 77
+...[truncated 7462 chars]
