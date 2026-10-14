@@ -1,0 +1,2100 @@
+{
+ "inventory_rows": 311491,
+ "service_area": {
+  "premises": 311491,
+  "confirmed": 11400,
+  "likely": 10026,
+  "unlikely": 14667,
+  "nonlead": 275398,
+  "pool_confirmed_plus_likely": 21426,
+  "unknown_total": 24693,
+  "shares_pct": {
+   "confirmed": 3.66,
+   "likely": 3.22,
+   "unlikely": 4.71,
+   "nonlead": 88.41
+  },
+  "pool_share_pct": 6.88
+ },
+ "denver_city": {
+  "premises": 187289,
+  "confirmed": 10822,
+  "likely": 7953,
+  "unlikely": 13711,
+  "nonlead": 154803,
+  "pool_confirmed_plus_likely": 18775,
+  "unknown_total": 21664,
+  "shares_pct": {
+   "confirmed": 5.78,
+   "likely": 4.25,
+   "unlikely": 7.32,
+   "nonlead": 82.65
+  },
+  "pool_share_pct": 10.02
+ },
+ "outside_denver_city": {
+  "premises": 124202,
+  "confirmed": 578,
+  "likely": 2073,
+  "unlikely": 956,
+  "nonlead": 120595,
+  "pool_confirmed_plus_likely": 2651,
+  "unknown_total": 3029,
+  "shares_pct": {
+   "confirmed": 0.47,
+   "likely": 1.67,
+   "unlikely": 0.77,
+   "nonlead": 97.1
+  },
+  "pool_share_pct": 2.13
+ },
+ "neighborhoods_denver_city": {
+  "count": 126,
+  "table": [
+   {
+    "NHNAME": "Platte Park",
+    "premises": 2643,
+    "confirmed": 1395,
+    "likely": 241,
+    "unlikely": 10,
+    "median_year_built": 1926.0,
+    "pool": 1636,
+    "pool_share_pct": 61.9,
+    "confirmed_share_pct": 52.78
+   },
+   {
+    "NHNAME": "Washington Park",
+    "premises": 2891,
+    "confirmed": 1160,
+    "likely": 105,
+    "unlikely": 93,
+    "median_year_built": 1926.0,
+    "pool": 1265,
+    "pool_share_pct": 43.76,
+    "confirmed_share_pct": 40.12
+   },
+   {
+    "NHNAME": "Berkeley",
+    "premises": 3712,
+    "confirmed": 983,
+    "likely": 185,
+    "unlikely": 104,
+    "median_year_built": 1925.0,
+    "pool": 1168,
+    "pool_share_pct": 31.47,
+    "confirmed_share_pct": 26.48
+   },
+   {
+    "NHNAME": "Cory-Merrill",
+    "premises": 1906,
+    "confirmed": 767,
+    "likely": 206,
+    "unlikely": 51,
+    "median_year_built": 1949.0,
+    "pool": 973,
+    "pool_share_pct": 51.05,
+    "confirmed_share_pct": 40.24
+   },
+   {
+    "NHNAME": "Country Club",
+    "premises": 1210,
+    "confirmed": 134,
+    "likely": 692,
+    "unlikely": 11,
+    "median_year_built": 1920.0,
+    "pool": 826,
+    "pool_share_pct": 68.26,
+    "confirmed_share_pct": 11.07
+   },
+   {
+    "NHNAME": "Washington Park West",
+    "premises": 2793,
+    "confirmed": 628,
+    "likely": 186,
+    "unlikely": 10,
+    "median_year_built": 1911.0,
+    "pool": 814,
+    "pool_share_pct": 29.14,
+    "confirmed_share_pct": 22.48
+   },
+   {
+    "NHNAME": "Hilltop",
+    "premises": 3289,
+    "confirmed": 489,
+    "likely": 250,
+    "unlikely": 618,
+    "median_year_built": 1954.0,
+    "pool": 739,
+    "pool_share_pct": 22.47,
+    "confirmed_share_pct": 14.87
+   },
+   {
+    "NHNAME": "University Hills(Denver County)",
+    "premises": 2541,
+    "confirmed": 7,
+    "likely": 716,
+    "unlikely": 196,
+    "median_year_built": 1953.0,
+    "pool": 723,
+    "pool_share_pct": 28.45,
+    "confirmed_share_pct": 0.28
+   },
+   {
+    "NHNAME": "University Park",
+    "premises": 2014,
+    "confirmed": 539,
+    "likely": 182,
+    "unlikely": 39,
+    "median_year_built": 1955.0,
+    "pool": 721,
+    "pool_share_pct": 35.8,
+    "confirmed_share_pct": 26.76
+   },
+   {
+    "NHNAME": "Highland",
+    "premises": 2696,
+    "confirmed": 489,
+    "likely": 229,
+    "unlikely": 37,
+    "median_year_built": 1910.0,
+    "pool": 718,
+    "pool_share_pct": 26.63,
+    "confirmed_share_pct": 18.14
+   },
+   {
+    "NHNAME": "Belcaro",
+    "premises": 1757,
+    "confirmed": 470,
+    "likely": 195,
+    "unlikely": 127,
+    "median_year_built": 1954.0,
+    "pool": 665,
+    "pool_share_pct": 37.85,
+    "confirmed_share_pct": 26.75
+   },
+   {
+    "NHNAME": "Rosedale",
+    "premises": 1100,
+    "confirmed": 492,
+    "likely": 113,
+    "unlikely": 16,
+    "median_year_built": 1942.0,
+    "pool": 605,
+    "pool_share_pct": 55.0,
+    "confirmed_share_pct": 44.73
+   },
+   {
+    "NHNAME": "Cheesman Park",
+    "premises": 908,
+    "confirmed": 210,
+    "likely": 272,
+    "unlikely": 57,
+    "median_year_built": 1904.0,
+    "pool": 482,
+    "pool_share_pct": 53.08,
+    "confirmed_share_pct": 23.13
+   },
+   {
+    "NHNAME": "Cherry Creek",
+    "premises": 1906,
+    "confirmed": 283,
+    "likely": 183,
+    "unlikely": 8,
+    "median_year_built": 1996.0,
+    "pool": 466,
+    "pool_share_pct": 24.45,
+    "confirmed_share_pct": 14.85
+   },
+   {
+    "NHNAME": "North Park Hill",
+    "premises": 3970,
+    "confirmed": 81,
+    "likely": 378,
+    "unlikely": 58,
+    "median_year_built": 1947.0,
+    "pool": 459,
+    "pool_share_pct": 11.56,
+    "confirmed_share_pct": 2.04
+   },
+   {
+    "NHNAME": "Northeast Park Hill",
+    "premises": 2645,
+    "confirmed": 59,
+    "likely": 360,
+    "unlikely": 667,
+    "median_year_built": 1954.0,
+    "pool": 419,
+    "pool_share_pct": 15.84,
+    "confirmed_share_pct": 2.23
+   },
+   {
+    "NHNAME": "Montclair",
+    "premises": 2196,
+    "confirmed": 266,
+    "likely": 115,
+    "unlikely": 1,
+    "median_year_built": 1947.0,
+    "pool": 381,
+    "pool_share_pct": 17.35,
+    "confirmed_share_pct": 12.11
+   },
+   {
+    "NHNAME": "Twin Lakes, Berkely, and West North Washington",
+    "premises": 5875,
+    "confirmed": 49,
+    "likely": 305,
+    "unlikely": 61,
+    "median_year_built": 1959.0,
+    "pool": 354,
+    "pool_share_pct": 6.03,
+    "confirmed_share_pct": 0.83
+   },
+   {
+    "NHNAME": "West Colfax",
+    "premises": 2287,
+    "confirmed": 158,
+    "likely": 152,
+    "unlikely": 234,
+    "median_year_built": 1951.0,
+    "pool": 310,
+    "pool_share_pct": 13.55,
+    "confirmed_share_pct": 6.91
+   },
+   {
+    "NHNAME": "Overland",
+    "premises": 1235,
+    "confirmed": 93,
+    "likely": 204,
+    "unlikely": 21,
+    "median_year_built": 1947.5,
+    "pool": 297,
+    "pool_share_pct": 24.05,
+    "confirmed_share_pct": 7.53
+   },
+   {
+    "NHNAME": "Sloans Lake",
+    "premises": 2690,
+    "confirmed": 176,
+    "likely": 99,
+    "unlikely": 143,
+    "median_year_built": 1946.0,
+    "pool": 275,
+    "pool_share_pct": 10.22,
+    "confirmed_share_pct": 6.54
+   },
+   {
+    "NHNAME": "South Park Hill",
+    "premises": 3287,
+    "confirmed": 75,
+    "likely": 198,
+    "unlikely": 26,
+    "median_year_built": 1929.0,
+    "pool": 273,
+    "pool_share_pct": 8.31,
+    "confirmed_share_pct": 2.28
+   },
+   {
+    "NHNAME": "Lincoln Park",
+    "premises": 1408,
+    "confirmed": 158,
+    "likely": 96,
+    "unlikely": 14,
+    "median_year_built": 1900.0,
+    "pool": 254,
+    "pool_share_pct": 18.04,
+    "confirmed_share_pct": 11.22
+   },
+   {
+    "NHNAME": "Westwood",
+    "premises": 3507,
+    "confirmed": 44,
+    "likely": 179,
+    "unlikely": 829,
+    "median_year_built": 1953.0,
+    "pool": 223,
+    "pool_share_pct": 6.36,
+    "confirmed_share_pct": 1.25
+   },
+   {
+    "NHNAME": "Regis",
+    "premises": 1585,
+    "confirmed": 134,
+    "likely": 80,
+    "unlikely": 137,
+    "median_year_built": 1930.0,
+    "pool": 214,
+    "pool_share_pct": 13.5,
+    "confirmed_share_pct": 8.45
+   },
+   {
+    "NHNAME": "University",
+    "premises": 2754,
+    "confirmed": 111,
+    "likely": 98,
+    "unlikely": 31,
+    "median_year_built": 1946.0,
+    "pool": 209,
+    "pool_share_pct": 7.59,
+    "confirmed_share_pct": 4.03
+   },
+   {
+    "NHNAME": "West Highland",
+    "premises": 3433,
+    "confirmed": 115,
+    "likely": 92,
+    "unlikely": 84,
+    "median_year_built": 1925.0,
+    "pool": 207,
+    "pool_share_pct": 6.03,
+    "confirmed_share_pct": 3.35
+   },
+   {
+    "NHNAME": "Wellshire",
+    "premises": 1233,
+    "confirmed": 2,
+    "likely": 205,
+    "unlikely": 89,
+    "median_year_built": 1956.0,
+    "pool": 207,
+    "pool_share_pct": 16.79,
+    "confirmed_share_pct": 0.16
+   },
+   {
+    "NHNAME": "Northeast Lakewood",
+    "premises": 338,
+    "confirmed": 32,
+    "likely": 171,
+    "unlikely": 10,
+    "median_year_built": 1937.0,
+    "pool": 203,
+    "pool_share_pct": 60.06,
+    "confirmed_share_pct": 9.47
+   },
+   {
+    "NHNAME": "Sunnyside",
+    "premises": 3487,
+    "confirmed": 98,
+    "likely": 95,
+    "unlikely": 91,
+    "median_year_built": 1927.0,
+    "pool": 193,
+    "pool_share_pct": 5.53,
+    "confirmed_share_pct": 2.81
+   },
+   {
+    "NHNAME": "College View",
+    "premises": 1497,
+    "confirmed": 75,
+    "likely": 101,
+    "unlikely": 182,
+    "median_year_built": 1970.0,
+    "pool": 176,
+    "pool_share_pct": 11.76,
+    "confirmed_share_pct": 5.01
+   },
+   {
+    "NHNAME": "Mar Lee",
+    "premises": 3327,
+    "confirmed": 37,
+    "likely": 125,
+    "unlikely": 1864,
+    "median_year_built": 1955.0,
+    "pool": 162,
+    "pool_share_pct": 4.87,
+    "confirmed_share_pct": 1.11
+   },
+   {
+    "NHNAME": "Speer",
+    "premises": 2309,
+    "confirmed": 113,
+    "likely": 45,
+    "unlikely": 10,
+    "median_year_built": 1908.0,
+    "pool": 158,
+    "pool_share_pct": 6.84,
+    "confirmed_share_pct": 4.89
+   },
+   {
+    "NHNAME": "Jefferson Park",
+    "premises": 666,
+    "confirmed": 127,
+    "likely": 20,
+    "unlikely": 52,
+    "median_year_built": 1954.0,
+    "pool": 147,
+    "pool_share_pct": 22.07,
+    "confirmed_share_pct": 19.07
+   },
+   {
+    "NHNAME": "Five Points",
+    "premises": 2405,
+    "confirmed": 64,
+    "likely": 82,
+    "unlikely": 69,
+    "median_year_built": 1899.0,
+    "pool": 146,
+    "pool_share_pct": 6.07,
+    "confirmed_share_pct": 2.66
+   },
+   {
+    "NHNAME": "Elyria Swansea",
+    "premises": 1921,
+    "confirmed": 79,
+    "likely": 54,
+    "unlikely": 116,
+    "median_year_built": 1947.0,
+    "pool": 133,
+    "pool_share_pct": 6.92,
+    "confirmed_share_pct": 4.11
+   },
+   {
+    "NHNAME": "Globeville",
+    "premises": 1227,
+    "confirmed": 55,
+    "likely": 53,
+    "unlikely": 9,
+    "median_year_built": 1922.0,
+    "pool": 108,
+    "pool_share_pct": 8.8,
+    "confirmed_share_pct": 4.48
+   },
+   {
+    "NHNAME": "Virginia Village",
+    "premises": 3701,
+    "confirmed": 18,
+    "likely": 85,
+    "unlikely": 894,
+    "median_year_built": 1956.0,
+    "pool": 103,
+    "pool_share_pct": 2.78,
+    "confirmed_share_pct": 0.49
+   },
+   {
+    "NHNAME": "Clayton",
+    "premises": 1410,
+    "confirmed": 25,
+    "likely": 69,
+    "unlikely": 41,
+    "median_year_built": 1942.0,
+    "pool": 94,
+    "pool_share_pct": 6.67,
+    "confirmed_share_pct": 1.77
+   },
+   {
+    "NHNAME": "Barnum",
+    "premises": 1762,
+    "confirmed": 70,
+    "likely": 21,
+    "unlikely": 212,
+    "median_year_built": 1940.0,
+    "pool": 91,
+    "pool_share_pct": 5.16,
+    "confirmed_share_pct": 3.97
+   },
+   {
+    "NHNAME": "Congress Park",
+    "premises": 2900,
+    "confirmed": 30,
+    "likely": 55,
+    "unlikely": 83,
+    "median_year_built": 1920.0,
+    "pool": 85,
+    "pool_share_pct": 2.93,
+    "confirmed_share_pct": 1.03
+   },
+   {
+    "NHNAME": "Skyland",
+    "premises": 1268,
+    "confirmed": 45,
+    "likely": 38,
+    "unlikely": 77,
+    "median_year_built": 1947.0,
+    "pool": 83,
+    "pool_share_pct": 6.55,
+    "confirmed_share_pct": 3.55
+   },
+   {
+    "NHNAME": "Baker",
+    "premises": 1843,
+    "confirmed": 28,
+    "likely": 50,
+    "unlikely": 16,
+    "median_year_built": 1898.0,
+    "pool": 78,
+    "pool_share_pct": 4.23,
+    "confirmed_share_pct": 1.52
+   },
+   {
+    "NHNAME": "Union Station",
+    "premises": 290,
+    "confirmed": 10,
+    "likely": 65,
+    "unlikely": 17,
+    "median_year_built": 1959.0,
+    "pool": 75,
+    "pool_share_pct": 25.86,
+    "confirmed_share_pct": 3.45
+   },
+   {
+    "NHNAME": "Capitol Hill",
+    "premises": 1106,
+    "confirmed": 44,
+    "likely": 27,
+    "unlikely": 29,
+    "median_year_built": 1909.0,
+    "pool": 71,
+    "pool_share_pct": 6.42,
+    "confirmed_share_pct": 3.98
+   },
+   {
+    "NHNAME": "Athmar Park",
+    "premises": 2711,
+    "confirmed": 21,
+    "likely": 46,
+    "unlikely": 620,
+    "median_year_built": 1952.0,
+    "pool": 67,
+    "pool_share_pct": 2.47,
+    "confirmed_share_pct": 0.77
+   },
+   {
+    "NHNAME": "Ruby Hill",
+    "premises": 2686,
+    "confirmed": 38,
+    "likely": 23,
+    "unlikely": 1579,
+    "median_year_built": 1955.0,
+    "pool": 61,
+    "pool_share_pct": 2.27,
+    "confirmed_share_pct": 1.41
+   },
+   {
+    "NHNAME": "Civic Center",
+    "premises": 229,
+    "confirmed": 2,
+    "likely": 54,
+    "unlikely": 2,
+    "median_year_built": 1965.0,
+    "pool": 56,
+    "pool_share_pct": 24.45,
+    "confirmed_share_pct": 0.87
+   },
+   {
+    "NHNAME": "Hale",
+    "premises": 2102,
+    "confirmed": 14,
+    "likely": 40,
+    "unlikely": 7,
+    "median_year_built": 1941.0,
+    "pool": 54,
+    "pool_share_pct": 2.57,
+    "confirmed_share_pct": 0.67
+   },
+   {
+    "NHNAME": "Valverde",
+    "premises": 1175,
+    "confirmed": 32,
+    "likely": 19,
+    "unlikely": 82,
+    "median_year_built": 1948.0,
+    "pool": 51,
+    "pool_share_pct": 4.34,
+    "confirmed_share_pct": 2.72
+   },
+   {
+    "NHNAME": "Harvey Park",
+    "premises": 3656,
+    "confirmed": 19,
+    "likely": 29,
+    "unlikely": 1981,
+    "median_year_built": 1955.0,
+    "pool": 48,
+    "pool_share_pct": 1.31,
+    "confirmed_share_pct": 0.52
+   },
+   {
+    "NHNAME": "Villa Park",
+    "premises": 2066,
+    "confirmed": 29,
+    "likely": 13,
+    "unlikely": 539,
+    "median_year_built": 1949.0,
+    "pool": 42,
+    "pool_share_pct": 2.03,
+    "confirmed_share_pct": 1.4
+   },
+   {
+    "NHNAME": "Central Business",
+    "premises": 204,
+    "confirmed": 2,
+    "likely": 39,
+    "unlikely": 2,
+    "median_year_built": 1975.0,
+    "pool": 41,
+    "pool_share_pct": 20.1,
+    "confirmed_share_pct": 0.98
+   },
+   {
+    "NHNAME": "City Park West",
+    "premises": 1123,
+    "confirmed": 19,
+    "likely": 19,
+    "unlikely": 42,
+    "median_year_built": 1906.5,
+    "pool": 38,
+    "pool_share_pct": 3.38,
+    "confirmed_share_pct": 1.69
+   },
+   {
+    "NHNAME": "Northwest Sheridan",
+    "premises": 194,
+    "confirmed": 3,
+    "likely": 33,
+    "unlikely": 0,
+    "median_year_built": 1969.0,
+    "pool": 36,
+    "pool_share_pct": 18.56,
+    "confirmed_share_pct": 1.55
+   },
+   {
+    "NHNAME": "Sun Valley",
+    "premises": 177,
+    "confirmed": 15,
+    "likely": 18,
+    "unlikely": 46,
+    "median_year_built": 1961.0,
+    "pool": 33,
+    "pool_share_pct": 18.64,
+    "confirmed_share_pct": 8.47
+   },
+   {
+    "NHNAME": "North Capitol Hill",
+    "premises": 378,
+    "confirmed": 18,
+    "likely": 14,
+    "unlikely": 10,
+    "median_year_built": 1934.0,
+    "pool": 32,
+    "pool_share_pct": 8.47,
+    "confirmed_share_pct": 4.76
+   },
+   {
+    "NHNAME": "Washington Virginia Vale",
+    "premises": 2311,
+    "confirmed": 17,
+    "likely": 15,
+    "unlikely": 58,
+    "median_year_built": 1961.0,
+    "pool": 32,
+    "pool_share_pct": 1.38,
+    "confirmed_share_pct": 0.74
+   },
+   {
+    "NHNAME": "East Colfax",
+    "premises": 2462,
+    "confirmed": 9,
+    "likely": 20,
+    "unlikely": 101,
+    "median_year_built": 1948.0,
+    "pool": 29,
+    "pool_share_pct": 1.18,
+    "confirmed_share_pct": 0.37
+   },
+   {
+    "NHNAME": "Chaffee Park",
+    "premises": 1507,
+    "confirmed": 7,
+    "likely": 20,
+    "unlikely": 56,
+    "median_year_built": 1947.0,
+    "pool": 27,
+    "pool_share_pct": 1.79,
+    "confirmed_share_pct": 0.46
+   },
+   {
+    "NHNAME": "Montview Park",
+    "premises": 67,
+    "confirmed": 0,
+    "likely": 26,
+    "unlikely": 8,
+    "median_year_built": 1952.0,
+    "pool": 26,
+    "pool_share_pct": 38.81,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Whittier(Denver County)",
+    "premises": 1640,
+    "confirmed": 16,
+    "likely": 8,
+    "unlikely": 16,
+    "median_year_built": 1905.0,
+    "pool": 24,
+    "pool_share_pct": 1.46,
+    "confirmed_share_pct": 0.98
+   },
+   {
+    "NHNAME": "Barnum West",
+    "premises": 1697,
+    "confirmed": 16,
+    "likely": 8,
+    "unlikely": 983,
+    "median_year_built": 1954.0,
+    "pool": 24,
+    "pool_share_pct": 1.41,
+    "confirmed_share_pct": 0.94
+   },
+   {
+    "NHNAME": "City Park",
+    "premises": 567,
+    "confirmed": 10,
+    "likely": 10,
+    "unlikely": 17,
+    "median_year_built": 1912.0,
+    "pool": 20,
+    "pool_share_pct": 3.53,
+    "confirmed_share_pct": 1.76
+   },
+   {
+    "NHNAME": "Auraria",
+    "premises": 100,
+    "confirmed": 4,
+    "likely": 15,
+    "unlikely": 0,
+    "median_year_built": 1933.0,
+    "pool": 19,
+    "pool_share_pct": 19.0,
+    "confirmed_share_pct": 4.0
+   },
+   {
+    "NHNAME": "Cole",
+    "premises": 1357,
+    "confirmed": 6,
+    "likely": 2,
+    "unlikely": 3,
+    "median_year_built": 1903.0,
+    "pool": 8,
+    "pool_share_pct": 0.59,
+    "confirmed_share_pct": 0.44
+   },
+   {
+    "NHNAME": "Fort Logan",
+    "premises": 2075,
+    "confirmed": 2,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1973.0,
+    "pool": 2,
+    "pool_share_pct": 0.1,
+    "confirmed_share_pct": 0.1
+   },
+   {
+    "NHNAME": "Welby and East North Washington",
+    "premises": 2708,
+    "confirmed": 2,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1970.0,
+    "pool": 2,
+    "pool_share_pct": 0.07,
+    "confirmed_share_pct": 0.07
+   },
+   {
+    "NHNAME": "Harvey Park South",
+    "premises": 2366,
+    "confirmed": 1,
+    "likely": 1,
+    "unlikely": 10,
+    "median_year_built": 1956.0,
+    "pool": 2,
+    "pool_share_pct": 0.08,
+    "confirmed_share_pct": 0.04
+   },
+   {
+    "NHNAME": "Holly Hills",
+    "premises": 1017,
+    "confirmed": 1,
+    "likely": 1,
+    "unlikely": 0,
+    "median_year_built": 1959.0,
+    "pool": 2,
+    "pool_share_pct": 0.2,
+    "confirmed_share_pct": 0.1
+   },
+   {
+    "NHNAME": "Delmar Parkway, Jewell Heights, and Hoffman Heights",
+    "premises": 5,
+    "confirmed": 0,
+    "likely": 2,
+    "unlikely": 0,
+    "median_year_built": 1951.0,
+    "pool": 2,
+    "pool_share_pct": 40.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "East central Englewood",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 0,
+    "median_year_built": 1943.0,
+    "pool": 1,
+    "pool_share_pct": 100.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Southmoor Park",
+    "premises": 721,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 1,
+    "median_year_built": 1962.0,
+    "pool": 1,
+    "pool_share_pct": 0.14,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Stapleton",
+    "premises": 8058,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 0,
+    "median_year_built": 2007.0,
+    "pool": 1,
+    "pool_share_pct": 0.01,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Hampden",
+    "premises": 3280,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 0,
+    "median_year_built": 1971.0,
+    "pool": 1,
+    "pool_share_pct": 0.03,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Goldsmith",
+    "premises": 828,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 1,
+    "median_year_built": 1968.0,
+    "pool": 1,
+    "pool_share_pct": 0.12,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Lowry Field",
+    "premises": 1723,
+    "confirmed": 0,
+    "likely": 1,
+    "unlikely": 0,
+    "median_year_built": 2002.0,
+    "pool": 1,
+    "pool_share_pct": 0.06,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Hampden South",
+    "premises": 2874,
+    "confirmed": 1,
+    "likely": 0,
+    "unlikely": 2,
+    "median_year_built": 1971.0,
+    "pool": 1,
+    "pool_share_pct": 0.03,
+    "confirmed_share_pct": 0.03
+   },
+   {
+    "NHNAME": "Windsor",
+    "premises": 896,
+    "confirmed": 1,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1993.0,
+    "pool": 1,
+    "pool_share_pct": 0.11,
+    "confirmed_share_pct": 0.11
+   },
+   {
+    "NHNAME": "North Aurora",
+    "premises": 70,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2001.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Montbello",
+    "premises": 7698,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1977.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Mount Carbon Park and Westgate",
+    "premises": 50,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1960.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Littleton North",
+    "premises": 3,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1938.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Hayden Green Mountain Park",
+    "premises": 62,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Heritage Hills and Stonegate",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1982.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Marston",
+    "premises": 2484,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1983.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Indian Creek",
+    "premises": 594,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1983.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Ken Caryl Ranch",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2007.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Kennedy",
+    "premises": 50,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1974.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Bowels Grove Park",
+    "premises": 4,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1969.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Wayside Meadows Park",
+    "premises": 6,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1004.5,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "West Centennial",
+    "premises": 5,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": NaN,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "West Greenwood Village",
+    "premises": 2,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1989.5,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Bear Valley",
+    "premises": 1952,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 1,
+    "median_year_built": 1967.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Harriman Lake, Weaver Hollow Park and Blue Heron Park",
+    "premises": 11,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2021.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Northwest Lakewood",
+    "premises": 7,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1956.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Okane Park, Washington Heights Park",
+    "premises": 11,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1935.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Green Valley Ranch",
+    "premises": 11887,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2002.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Homestead Park and Columbine",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1958.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Hutchinson Park",
+    "premises": 19,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1959.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Northeast Centennial",
+    "premises": 4,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": NaN,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Northeast Littleton",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Hine Lake, Powderhorn Park and Westbury Park",
+    "premises": 4,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1974.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "South Westminster",
+    "premises": 783,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1956.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Southwest Littleton",
+    "premises": 5,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1999.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Rocky Mountain Arsenal",
+    "premises": 6,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "South Lakewood",
+    "premises": 115,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1986.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "South Marston Lake",
+    "premises": 59,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1998.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "South Commerce City",
+    "premises": 15,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Skiline, Arvada Plaza and Terrace Park",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": NaN,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Golden Gate Canyon and Coal Creek Canyon",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Glendale Area",
+    "premises": 19,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1999.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Fruitdale, Kipling and I-70 & Clearcreek",
+    "premises": 3,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 0.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Federal Heights Federal Heights and Sherrelwood",
+    "premises": 1052,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1958.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Southwest Thornton",
+    "premises": 1050,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1959.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Federal Center",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2010.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Denver Airport",
+    "premises": 902,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2020.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Sullivan",
+    "premises": 2392,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1997.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Clement Park",
+    "premises": 2,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1991.5,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Exposition Park and Aurora Hills",
+    "premises": 1,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1991.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Dekoevend Park",
+    "premises": 4,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2010.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Central south Littleton",
+    "premises": 7,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1982.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Cherry Hills Village Area",
+    "premises": 6,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 1959.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Cherry Creek Reservoir",
+    "premises": 34,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2004.5,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Utah Park",
+    "premises": 5,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": NaN,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   },
+   {
+    "NHNAME": "Apel Bacher Park, Koch Sub and Coulehan Grange",
+    "premises": 9,
+    "confirmed": 0,
+    "likely": 0,
+    "unlikely": 0,
+    "median_year_built": 2012.0,
+    "pool": 0,
+    "pool_share_pct": 0.0,
+    "confirmed_share_pct": 0.0
+   }
+  ],
+  "top10_by_pool": [
+   {
+    "NHNAME": "Platte Park",
+    "premises": 2643,
+    "confirmed": 1395,
+    "likely": 241,
+    "unlikely": 10,
+    "median_year_built": 1926.0,
+    "pool": 1636,
+    "pool_share_pct": 61.9,
+    "confirmed_share_pct": 52.78
+   },
+   {
+    "NHNAME": "Washington Park",
+    "premises": 2891,
+    "confirmed": 1160,
+    "likely": 105,
+    "unlikely": 93,
+    "median_year_built": 1926.0,
+    "pool": 1265,
+    "pool_share_pct": 43.76,
+    "confirmed_share_pct": 40.12
+   },
+   {
+    "NHNAME": "Berkeley",
+    "premises": 3712,
+    "confirmed": 983,
+    "likely": 185,
+    "unlikely": 104,
+    "median_year_built": 1925.0,
+    "pool": 1168,
+    "pool_share_pct": 31.47,
+    "confirmed_share_pct": 26.48
+   },
+   {
+    "NHNAME": "Cory-Merrill",
+    "premises": 1906,
+    "confirmed": 767,
+    "likely": 206,
+    "unlikely": 51,
+    "median_year_built": 1949.0,
+    "pool": 973,
+    "pool_share_pct": 51.05,
+    "confirmed_share_pct": 40.24
+   },
+   {
+    "NHNAME": "Country Club",
+    "premises": 1210,
+    "confirmed": 134,
+    "likely": 692,
+    "unlikely": 11,
+    "median_year_built": 1920.0,
+    "pool": 826,
+    "pool_share_pct": 68.26,
+    "confirmed_share_pct": 11.07
+   },
+   {
+    "NHNAME": "Washington Park West",
+    "premises": 2793,
+    "confirmed": 628,
+    "likely": 186,
+    "unlikely": 10,
+    "median_year_built": 1911.0,
+    "pool": 814,
+    "pool_share_pct": 29.14,
+    "confirmed_share_pct": 22.48
+   },
+   {
+    "NHNAME": "Hilltop",
+    "premises": 3289,
+    "confirmed": 489,
+    "likely": 250,
+    "unlikely": 618,
+    "median_year_built": 1954.0,
+    "pool": 739,
+    "pool_share_pct": 22.47,
+    "confirmed_share_pct": 14.87
+   },
+   {
+    "NHNAME": "University Hills(Denver County)",
+    "premises": 2541,
+    "confirmed": 7,
+    "likely": 716,
+    "unlikely": 196,
+    "median_year_built": 1953.0,
+    "pool": 723,
+    "pool_share_pct": 28.45,
+    "confirmed_share_pct": 0.28
+   },
+   {
+    "NHNAME": "University Park",
+    "premises": 2014,
+    "confirmed": 539,
+    "likely": 182,
+    "unlikely": 39,
+    "median_year_built": 1955.0,
+    "pool": 721,
+    "pool_share_pct": 35.8,
+    "confirmed_share_pct": 26.76
+   },
+   {
+    "NHNAME": "Highland",
+    "premises": 2696,
+    "confirmed": 489,
+    "likely": 229,
+    "unlikely": 37,
+    "median_year_built": 1910.0,
+    "pool": 718,
+    "pool_share_pct": 26.63,
+    "confirmed_share_pct": 18.14
+   }
+  ],
+  "top10_by_pool_share_min100premises": [
+   {
+    "NHNAME": "Country Club",
+    "premises": 1210,
+    "confirmed": 134,
+    "likely": 692,
+    "unlikely": 11,
+    "median_year_built": 1920.0,
+    "pool": 826,
+    "pool_share_pct": 68.26,
+    "confirmed_share_pct": 11.07
+   },
+   {
+    "NHNAME": "Platte Park",
+    "premises": 2643,
+    "confirmed": 1395,
+    "likely": 241,
+    "unlikely": 10,
+    "median_year_built": 1926.0,
+    "pool": 1636,
+    "pool_share_pct": 61.9,
+    "confirmed_share_pct": 52.78
+   },
+   {
+    "NHNAME": "Northeast Lakewood",
+    "premises": 338,
+    "confirmed": 32,
+    "likely": 171,
+    "unlikely": 10,
+    "median_year_built": 1937.0,
+    "pool": 203,
+    "pool_share_pct": 60.06,
+    "confirmed_share_pct": 9.47
+   },
+   {
+    "NHNAME": "Rosedale",
+    "premises": 1100,
+    "confirmed": 492,
+    "likely": 113,
+    "unlikely": 16,
+    "median_year_built": 1942.0,
+    "pool": 605,
+    "pool_share_pct": 55.0,
+    "confirmed_share_pct": 44.73
+   },
+   {
+    "NHNAME": "Cheesman Park",
+    "premises": 908,
+    "confirmed": 210,
+    "likely": 272,
+    "unlikely": 57,
+    "median_year_built": 1904.0,
+    "pool": 482,
+    "pool_share_pct": 53.08,
+    "confirmed_share_pct": 23.13
+   },
+   {
+    "NHNAME": "Cory-Merrill",
+    "premises": 1906,
+    "confirmed": 767,
+    "likely": 206,
+    "unlikely": 51,
+    "median_year_built": 1949.0,
+    "pool": 973,
+    "pool_share_pct": 51.05,
+    "confirmed_share_pct": 40.24
+   },
+   {
+    "NHNAME": "Washington Park",
+    "premises": 2891,
+    "confirmed": 1160,
+    "likely": 105,
+    "unlikely": 93,
+    "median_year_built": 1926.0,
+    "pool": 1265,
+    "pool_share_pct": 43.76,
+    "confirmed_share_pct": 40.12
+   },
+   {
+    "NHNAME": "Belcaro",
+    "premises": 1757,
+    "confirmed": 470,
+    "likely": 195,
+    "unlikely": 127,
+    "median_year_built": 1954.0,
+    "pool": 665,
+    "pool_share_pct": 37.85,
+    "confirmed_share_pct": 26.75
+   },
+   {
+    "NHNAME": "University Park",
+    "premises": 2014,
+    "confirmed": 539,
+    "likely": 182,
+    "unlikely": 39,
+    "median_year_built": 1955.0,
+    "pool": 721,
+    "pool_share_pct": 35.8,
+    "confirmed_share_pct": 26.76
+   },
+   {
+    "NHNAME": "Berkeley",
+    "premises": 3712,
+    "confirmed": 983,
+    "likely": 185,
+    "unlikely": 104,
+    "median_year_built": 1925.0,
+    "pool": 1168,
+    "pool_share_pct": 31.47,
+    "confirmed_share_pct": 26.48
+   }
+  ],
+  "top5_pool_sum": 5868,
+  "top10_pool_sum": 9583,
+  "neighborhoods_with_zero_pool": 47,
+  "neighborhoods_with_pool_share_ge_25pct": 17
+ },
+ "council_districts": {
+  "premises_with_district": 171265,
+  "premises_denver_city_total": 187289,
+  "table": [
+   {
+    "denver_district": 1,
+    "premises": 20824,
+    "confirmed": 2223,
+    "likely": 906,
+    "pool": 3129,
+    "pool_share_pct": 15.03
+   },
+   {
+    "denver_district": 2,
+    "premises": 14360,
+    "confirmed": 34,
+    "likely": 122,
+    "pool": 156,
+    "pool_share_pct": 1.09
+   },
+   {
+    "denver_district": 3,
+    "premises": 13365,
+    "confirmed": 420,
+    "likely": 433,
+    "pool": 853,
+    "pool_share_pct": 6.38
+   },
+   {
+    "denver_district": 4,
+    "premises": 11495,
+    "confirmed": 10,
+    "likely": 924,
+    "pool": 934,
+    "pool_share_pct": 8.13
+   },
+   {
+    "denver_district": 5,
+    "premises": 13050,
+    "confirmed": 790,
+    "likely": 427,
+    "pool": 1217,
+    "pool_share_pct": 9.33
+   },
+   {
+    "denver_district": 6,
+    "premises": 16534,
+    "confirmed": 3553,
+    "likely": 979,
+    "pool": 4532,
+    "pool_share_pct": 27.41
+   },
+   {
+    "denver_district": 7,
+    "premises": 18147,
+    "confirmed": 2398,
+    "likely": 897,
+    "pool": 3295,
+    "pool_share_pct": 18.16
+   },
+   {
+    "denver_district": 8,
+    "premises": 21214,
+    "confirmed": 220,
+    "likely": 950,
+    "pool": 1170,
+    "pool_share_pct": 5.52
+   },
+   {
+    "denver_district": 9,
+    "premises": 13477,
+    "confirmed": 336,
+    "likely": 454,
+    "pool": 790,
+    "pool_share_pct": 5.86
+   },
+   {
+    "denver_district": 10,
+    "premises": 10086,
+    "confirmed": 751,
+    "likely": 1323,
+    "pool": 2074,
+    "pool_share_pct": 20.56
+   },
+   {
+    "denver_district": 11,
+    "premises": 18713,
+    "confirmed": 0,
+    "likely": 0,
+    "pool": 0,
+    "pool_share_pct": 0.0
+   }
+  ]
+ },
+ "year_built_service_area": [
+  {
+   "era": "1920 or earlier",
+   "premises": 27572,
+   "pool": 5840,
+   "confirmed": 3773,
+   "pool_share_pct": 21.18
+  },
+  {
+   "era": "1921-1940",
+   "premises": 22860,
+   "pool": 5830,
+   "confirmed": 4046,
+   "pool_share_pct": 25.5
+  },
+  {
+   "era": "1941-1950",
+   "premises": 20018,
+   "pool": 4664,
+   "confirmed": 2380,
+   "pool_share_pct": 23.3
+  },
+  {
+   "era": "1951-1960",
+   "premises": 50215,
+   "pool": 3096,
+   "confirmed": 377,
+   "pool_share_pct": 6.17
+  },
+  {
+   "era": "1961-1975",
+   "premises": 58985,
+   "pool": 327,
+   "confirmed": 90,
+   "pool_share_pct": 0.55
+  },
+  {
+   "era": "1976 or later",
+   "premises": 119854,
+   "pool": 1334,
+   "confirmed": 695,
+   "pool_share_pct": 1.11
+  },
+  {
+   "era": "unknown",
+   "premises": 11987,
+   "pool": 335,
+   "confirmed": 39,
+   "pool_share_pct": 2.79
+  }
+ ],
+ "year_built_denver_city": [
+  {
+   "era": "1920 or earlier",
+   "premises": 26809,
+   "pool": 5614,
+   "confirmed": 3689,
+   "pool_share_pct": 20.94
+  },
+  {
+   "era": "1921-1940",
+   "premises": 21478,
+   "pool": 5293,
+   "confirmed": 3822,
+   "pool_share_pct": 24.64
+  },
+  {
+   "era": "1941-1950",
+   "premises": 17752,
+   "pool": 3571,
+   "confirmed": 2193,
+   "pool_share_pct": 20.12
+  },
+  {
+   "era": "1951-1960",
+   "premises": 38885,
+   "pool": 2573,
+   "confirmed": 338,
+   "pool_share_pct": 6.62
+  },
+  {
+   "era": "1961-1975",
+   "premises": 22062,
+   "pool": 271,
+   "confirmed": 81,
+   "pool_share_pct": 1.23
+  },
+  {
+   "era": "1976 or later",
+   "premises": 52321,
+   "pool": 1272,
+   "confirmed": 676,
+   "pool_share_pct": 2.43
+  },
+  {
+   "era": "unknown",
+   "premises": 7982,
+   "pool": 181,
+   "confirmed": 23,
+   "pool_share_pct": 2.27
+  }
+ ],
+ "year_built_coverage": {
+  "denver_city_missing_or_zero": 7982,
+  "denver_city_premises": 187289
+ },
+ "zip_top10_denver_city": [
+  {
+   "zip5": "80210",
+   "premises": 12796,
+   "pool": 4935,
+   "confirmed": 3797,
+   "pool_share_pct": 38.57
+  },
+  {
+   "zip5": "80209",
+   "premises": 7601,
+   "pool": 2358,
+   "confirmed": 1871,
+   "pool_share_pct": 31.02
+  },
+  {
+   "zip5": "80211",
+   "premises": 11283,
+   "pool": 1884,
+   "confirmed": 1365,
+   "pool_share_pct": 16.7
+  },
+  {
+   "zip5": "80220",
+   "premises": 10858,
+   "pool": 1381,
+   "confirmed": 782,
+   "pool_share_pct": 12.72
+  },
+  {
+   "zip5": "80212",
+   "premises": 6698,
+   "pool": 1090,
+   "confirmed": 682,
+   "pool_share_pct": 16.27
+  },
+  {
+   "zip5": "80218",
+   "premises": 3079,
+   "pool": 981,
+   "confirmed": 246,
+   "pool_share_pct": 31.86
+  },
+  {
+   "zip5": "80206",
+   "premises": 6015,
+   "pool": 967,
+   "confirmed": 460,
+   "pool_share_pct": 16.08
+  },
+  {
+   "zip5": "80207",
+   "premises": 7746,
+   "pool": 913,
+   "confirmed": 157,
+   "pool_share_pct": 11.79
+  },
+  {
+   "zip5": "80222",
+   "premises": 6151,
+   "pool": 815,
+   "confirmed": 20,
+   "pool_share_pct": 13.25
+  },
+  {
+   "zip5": "80204",
+   "premises": 7383,
+   "pool": 736,
+   "confirmed": 392,
+   "pool_share_pct": 9.97
+  }
+ ],
+ "replacements_layer": {
+  "rows": 24748,
+  "rows_with_parseable_date": 24746,
+  "rows_without_date": 2,
+  "date_min": "2020-01-01",
+  "date_max": "2024-05-02",
+  "by_year": {
+   "2020": 5533,
+   "2021": 4848,
+   "2022": 5150,
+   "2023": 6906,
+   "2024": 2309
+  },
+  "distinct_lsli_id": 24012,
+  "duplicate_lsli_id_rows": 736,
+  "avg_per_full_year_2020_2023": 5609.2,
+  "layer_ends": "2024-05-02 (no dated records after this in the published layer)",
+  "by_project_top": {
+   "ALSLR PROGRAM": 17387,
+   "WATER MAIN REPLACEMENT": 3038,
+   "EMERGENCY REPAIRS": 1668,
+   "THIRD PARTY": 1303,
+   " ": 631,
+   "ALSLR PROGRAM (DW)": 335
+  },
+  "full_replacement_rows": 22536,
+  "joined_current_category": {
+   "nonlead": 23942,
+   "likely": 5,
+   "unlikely": 1,
+   "confirmed": 1
+  },
+  "premise_id_join": {
+   "rep_rows_with_premise_id": 24013,
+   "matched_to_current_inventory": 23948
+  }
+ },
+ "required_pace": {
+  "snapshot_date": "2026-06-30",
+  "pool_remaining_service_area": 21426,
+  "confirmed_remaining_service_area": 11400,
+  "years_to_denver_water_goal_end_2034": 8.5,
+  "years_to_epa_deadline_end_2037": 11.5,
+  "pool_per_year_for_2035_goal": 2521,
+  "pool_per_year_for_2037_deadline": 1863,
+  "confirmed_per_year_for_2037_deadline": 991
+ },
+ "pool_by_city_top8": {
+  "WHEAT RIDGE": 2182,
+  "LAKEWOOD": 147,
+  "ENGLEWOOD": 114,
+  "EDGEWATER": 105,
+  "LITTLETON": 97,
+  "CENTENNIAL": 1,
+  "THORNTON": 1,
+  "SHERIDAN": 1
+ },
+ "pool_in_denver_city_share_pct": 87.6,
+ "likely_frontier_top8": [
+  {
+   "NHNAME": "University Hills(Denver County)",
+   "premises": 2541,
+   "confirmed": 7,
+   "likely": 716,
+   "unlikely": 196,
+   "median_year_built": 1953.0,
+   "pool": 723,
+   "pool_share_pct": 28.45,
+   "confirmed_share_pct": 0.28,
+   "likely_share_of_pool_pct": 99.0
+  },
+  {
+   "NHNAME": "Country Club",
+   "premises": 1210,
+   "confirmed": 134,
+   "likely": 692,
+   "unlikely": 11,
+   "median_year_built": 1920.0,
+   "pool": 826,
+   "pool_share_pct": 68.26,
+   "confirmed_share_pct": 11.07,
+   "likely_share_of_pool_pct": 83.8
+  },
+  {
+   "NHNAME": "North Park Hill",
+   "premises": 3970,
+   "confirmed": 81,
+   "likely": 378,
+   "unlikely": 58,
+   "median_year_built": 1947.0,
+   "pool": 459,
+   "pool_share_pct": 11.56,
+   "confirmed_share_pct": 2.04,
+   "likely_share_of_pool_pct": 82.4
+  },
+  {
+   "NHNAME": "Northeast Park Hill",
+   "premises": 2645,
+   "confirmed": 59,
+   "likely": 360,
+   "unlikely": 667,
+   "median_year_built": 1954.0,
+   "pool": 419,
+   "pool_share_pct": 15.84,
+   "confirmed_share_pct": 2.23,
+   "likely_share_of_pool_pct": 85.9
+  },
+  {
+   "NHNAME": "Twin Lakes, Berkely, and West North Washington",
+   "premises": 5875,
+   "confirmed": 49,
+   "likely": 305,
+   "unlikely": 61,
+   "median_year_built": 1959.0,
+   "pool": 354,
+   "pool_share_pct": 6.03,
+   "confirmed_share_pct": 0.83,
+   "likely_share_of_pool_pct": 86.2
+  },
+  {
+   "NHNAME": "Cheesman Park",
+   "premises": 908,
+   "confirmed": 210,
+   "likely": 272,
+   "unlikely": 57,
+   "median_year_built": 1904.0,
+   "pool": 482,
+   "pool_share_pct": 53.08,
+   "confirmed_share_pct": 23.13,
+   "likely_share_of_pool_pct": 56.4
+  },
+  {
+   "NHNAME": "Hilltop",
+   "premises": 3289,
+   "confirmed": 489,
+   "likely": 250,
+   "unlikely": 618,
+   "median_year_built": 1954.0,
+   "pool": 739,
+   "pool_share_pct": 22.47,
+   "confirmed_share_pct": 14.87,
+   "likely_share_of_pool_pct": 33.8
+  },
+  {
+   "NHNAME": "Platte Park",
+   "premises": 2643,
+   "confirmed": 1395,
+   "likely": 241,
+   "unlikely": 10,
+   "median_year_built": 1926.0,
+   "pool": 1636,
+   "pool_share_pct": 61.9,
+   "confirmed_share_pct": 52.78,
+   "likely_share_of_pool_pct": 14.7
+  }
+ ],
+ "denver_city_premises_in_lakewood_named_area": 460,
+ "premise_id_duplicates": 91
+}

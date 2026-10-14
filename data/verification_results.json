@@ -1,0 +1,409 @@
+{
+ "checked_at": "2026-10-14",
+ "ledger": [
+  {
+   "figure": "inventory rows",
+   "brief_value": 311491,
+   "recomputed": 311491,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "service area confirmed",
+   "brief_value": 11400,
+   "recomputed": 11400,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "service area likely",
+   "brief_value": 10026,
+   "recomputed": 10026,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "service area unlikely",
+   "brief_value": 14667,
+   "recomputed": 14667,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "service area nonlead",
+   "brief_value": 275398,
+   "recomputed": 275398,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "service area pool",
+   "brief_value": 21426,
+   "recomputed": 21426,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "Denver city premises",
+   "brief_value": 187289,
+   "recomputed": 187289,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "Denver confirmed",
+   "brief_value": 10822,
+   "recomputed": 10822,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "Denver likely",
+   "brief_value": 7953,
+   "recomputed": 7953,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "Denver pool",
+   "brief_value": 18775,
+   "recomputed": 18775,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood pool: Platte Park",
+   "brief_value": 1636,
+   "recomputed": 1636,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood premises: Platte Park",
+   "brief_value": 2643,
+   "recomputed": 2643,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood pool: Washington Park",
+   "brief_value": 1265,
+   "recomputed": 1265,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood premises: Washington Park",
+   "brief_value": 2891,
+   "recomputed": 2891,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood pool: Berkeley",
+   "brief_value": 1168,
+   "recomputed": 1168,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood premises: Berkeley",
+   "brief_value": 3712,
+   "recomputed": 3712,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood pool: Cory-Merrill",
+   "brief_value": 973,
+   "recomputed": 973,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood premises: Cory-Merrill",
+   "brief_value": 1906,
+   "recomputed": 1906,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood pool: Country Club",
+   "brief_value": 826,
+   "recomputed": 826,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "neighborhood premises: Country Club",
+   "brief_value": 1210,
+   "recomputed": 1210,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "top5 neighborhoods pool sum",
+   "brief_value": 5868,
+   "recomputed": 5868,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1976 or later premises",
+   "brief_value": 52321,
+   "recomputed": 52321,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1976 or later pool",
+   "brief_value": 1272,
+   "recomputed": 1272,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1961-1975 premises",
+   "brief_value": 22062,
+   "recomputed": 22062,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1961-1975 pool",
+   "brief_value": 271,
+   "recomputed": 271,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1941-1950 premises",
+   "brief_value": 17752,
+   "recomputed": 17752,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1941-1950 pool",
+   "brief_value": 3571,
+   "recomputed": 3571,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1951-1960 premises",
+   "brief_value": 38885,
+   "recomputed": 38885,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1951-1960 pool",
+   "brief_value": 2573,
+   "recomputed": 2573,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built unknown premises",
+   "brief_value": 7982,
+   "recomputed": 7982,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built unknown pool",
+   "brief_value": 181,
+   "recomputed": 181,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1920 or earlier premises",
+   "brief_value": 26809,
+   "recomputed": 26809,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1920 or earlier pool",
+   "brief_value": 5614,
+   "recomputed": 5614,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1921-1940 premises",
+   "brief_value": 21478,
+   "recomputed": 21478,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "year-built 1921-1940 pool",
+   "brief_value": 5293,
+   "recomputed": 5293,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80210 pool",
+   "brief_value": 4935,
+   "recomputed": 4935,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80209 pool",
+   "brief_value": 2358,
+   "recomputed": 2358,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80211 pool",
+   "brief_value": 1884,
+   "recomputed": 1884,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80220 pool",
+   "brief_value": 1381,
+   "recomputed": 1381,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80212 pool",
+   "brief_value": 1090,
+   "recomputed": 1090,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80218 pool",
+   "brief_value": 981,
+   "recomputed": 981,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80206 pool",
+   "brief_value": 967,
+   "recomputed": 967,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80207 pool",
+   "brief_value": 913,
+   "recomputed": 913,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80222 pool",
+   "brief_value": 815,
+   "recomputed": 815,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "ZIP 80204 pool",
+   "brief_value": 736,
+   "recomputed": 736,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements rows",
+   "brief_value": 24748,
+   "recomputed": 24748,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements dated rows",
+   "brief_value": 24746,
+   "recomputed": 24746,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements in 2020",
+   "brief_value": 5533,
+   "recomputed": 5533,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements in 2021",
+   "brief_value": 4848,
+   "recomputed": 4848,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements in 2022",
+   "brief_value": 5150,
+   "recomputed": 5150,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements in 2023",
+   "brief_value": 6906,
+   "recomputed": 6906,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "replacements in 2024",
+   "brief_value": 2309,
+   "recomputed": 2309,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "avg replacements per full year 2020-2023",
+   "brief_value": 5609.2,
+   "recomputed": 5609.2,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "joined replaced premises now nonlead",
+   "brief_value": 23942,
+   "recomputed": 23942,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "largest outside-Denver pool city",
+   "brief_value": 2182,
+   "recomputed": 2182,
+   "status": "REPRODUCED",
+   "note": "city=WHEAT RIDGE"
+  },
+  {
+   "figure": "required per year, pre-2035 goal",
+   "brief_value": 2521,
+   "recomputed": 2521,
+   "status": "REPRODUCED",
+   "note": ""
+  },
+  {
+   "figure": "required per year, EPA 2037",
+   "brief_value": 1863,
+   "recomputed": 1863,
+   "status": "REPRODUCED",
+   "note": ""
+  }
+ ],
+ "totals": {
+  "checked": 57,
+  "reproduced": 57,
+  "corrected": 0
+ }
+}

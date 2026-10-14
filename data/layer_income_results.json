@@ -1,0 +1,312 @@
+{
+ "source": "ACS 2024 5-year, table B19013 (median household income), ZCTA level, official summary file acsdt5y2024-b19013.dat",
+ "denver_zip5_in_inventory": 62,
+ "matched_to_acs": 47,
+ "premises_in_matched_zips": 187253,
+ "premises_denver_city": 187289,
+ "zips_used_for_correlation_min100premises": 32,
+ "pearson_r_pool_share_vs_median_income": 0.298,
+ "pearson_r_confirmed_share_vs_median_income": 0.396,
+ "median_income_weighted_by_pool_premises": 110615,
+ "median_income_weighted_by_all_premises": 100977,
+ "top5_pool_share_zips": [
+  {
+   "zip5": "80210",
+   "premises": 12796,
+   "pool": 4935,
+   "pool_share_pct": 38.566739606126916,
+   "median_hh_income": 127270.0
+  },
+  {
+   "zip5": "80218",
+   "premises": 3079,
+   "pool": 981,
+   "pool_share_pct": 31.860993829165313,
+   "median_hh_income": 81706.0
+  },
+  {
+   "zip5": "80209",
+   "premises": 7601,
+   "pool": 2358,
+   "pool_share_pct": 31.022233916589922,
+   "median_hh_income": 125733.0
+  },
+  {
+   "zip5": "80202",
+   "premises": 563,
+   "pool": 117,
+   "pool_share_pct": 20.78152753108348,
+   "median_hh_income": 114151.0
+  },
+  {
+   "zip5": "80211",
+   "premises": 11283,
+   "pool": 1884,
+   "pool_share_pct": 16.697686785429408,
+   "median_hh_income": 121439.0
+  }
+ ],
+ "bottom5_pool_share_zips": [
+  {
+   "zip5": "80123",
+   "premises": 2807,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 105932.0
+  },
+  {
+   "zip5": "80239",
+   "premises": 10041,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 98148.0
+  },
+  {
+   "zip5": "80249",
+   "premises": 10663,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 100324.0
+  },
+  {
+   "zip5": "80229",
+   "premises": 3478,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 84203.0
+  },
+  {
+   "zip5": "80238",
+   "premises": 7831,
+   "pool": 1,
+   "pool_share_pct": 0.012769761205465458,
+   "median_hh_income": 180940.0
+  }
+ ],
+ "table": [
+  {
+   "zip5": "80210",
+   "premises": 12796,
+   "pool": 4935,
+   "pool_share_pct": 38.566739606126916,
+   "median_hh_income": 127270.0
+  },
+  {
+   "zip5": "80209",
+   "premises": 7601,
+   "pool": 2358,
+   "pool_share_pct": 31.022233916589922,
+   "median_hh_income": 125733.0
+  },
+  {
+   "zip5": "80211",
+   "premises": 11283,
+   "pool": 1884,
+   "pool_share_pct": 16.697686785429408,
+   "median_hh_income": 121439.0
+  },
+  {
+   "zip5": "80220",
+   "premises": 10858,
+   "pool": 1381,
+   "pool_share_pct": 12.718732731626451,
+   "median_hh_income": 106054.0
+  },
+  {
+   "zip5": "80212",
+   "premises": 6698,
+   "pool": 1090,
+   "pool_share_pct": 16.273514481934907,
+   "median_hh_income": 124972.0
+  },
+  {
+   "zip5": "80218",
+   "premises": 3079,
+   "pool": 981,
+   "pool_share_pct": 31.860993829165313,
+   "median_hh_income": 81706.0
+  },
+  {
+   "zip5": "80206",
+   "premises": 6015,
+   "pool": 967,
+   "pool_share_pct": 16.076475477971737,
+   "median_hh_income": 101594.0
+  },
+  {
+   "zip5": "80207",
+   "premises": 7746,
+   "pool": 913,
+   "pool_share_pct": 11.786728634133746,
+   "median_hh_income": 115542.0
+  },
+  {
+   "zip5": "80222",
+   "premises": 6151,
+   "pool": 815,
+   "pool_share_pct": 13.24987806860673,
+   "median_hh_income": 86472.0
+  },
+  {
+   "zip5": "80204",
+   "premises": 7383,
+   "pool": 736,
+   "pool_share_pct": 9.968847352024921,
+   "median_hh_income": 84829.0
+  },
+  {
+   "zip5": "80219",
+   "premises": 16825,
+   "pool": 696,
+   "pool_share_pct": 4.136701337295691,
+   "median_hh_income": 68415.0
+  },
+  {
+   "zip5": "80221",
+   "premises": 9452,
+   "pool": 499,
+   "pool_share_pct": 5.279305966991113,
+   "median_hh_income": 86810.0
+  },
+  {
+   "zip5": "80223",
+   "premises": 6433,
+   "pool": 404,
+   "pool_share_pct": 6.280118140836313,
+   "median_hh_income": 79151.0
+  },
+  {
+   "zip5": "80205",
+   "premises": 8411,
+   "pool": 314,
+   "pool_share_pct": 3.7332065152776126,
+   "median_hh_income": 104836.0
+  },
+  {
+   "zip5": "80216",
+   "premises": 3968,
+   "pool": 284,
+   "pool_share_pct": 7.157258064516129,
+   "median_hh_income": 82143.0
+  },
+  {
+   "zip5": "80203",
+   "premises": 1652,
+   "pool": 136,
+   "pool_share_pct": 8.232445520581114,
+   "median_hh_income": 77500.0
+  },
+  {
+   "zip5": "80202",
+   "premises": 563,
+   "pool": 117,
+   "pool_share_pct": 20.78152753108348,
+   "median_hh_income": 114151.0
+  },
+  {
+   "zip5": "80236",
+   "premises": 4089,
+   "pool": 107,
+   "pool_share_pct": 2.6167767180239667,
+   "median_hh_income": 86115.0
+  },
+  {
+   "zip5": "80246",
+   "premises": 1658,
+   "pool": 64,
+   "pool_share_pct": 3.860072376357057,
+   "median_hh_income": 67235.0
+  },
+  {
+   "zip5": "80224",
+   "premises": 4261,
+   "pool": 33,
+   "pool_share_pct": 0.7744660877728233,
+   "median_hh_income": 86352.0
+  },
+  {
+   "zip5": "80247",
+   "premises": 1950,
+   "pool": 26,
+   "pool_share_pct": 1.3333333333333333,
+   "median_hh_income": 64498.0
+  },
+  {
+   "zip5": "80214",
+   "premises": 167,
+   "pool": 25,
+   "pool_share_pct": 14.970059880239521,
+   "median_hh_income": 75575.0
+  },
+  {
+   "zip5": "80237",
+   "premises": 3539,
+   "pool": 2,
+   "pool_share_pct": 0.05651313930488839,
+   "median_hh_income": 85705.0
+  },
+  {
+   "zip5": "80227",
+   "premises": 2148,
+   "pool": 2,
+   "pool_share_pct": 0.0931098696461825,
+   "median_hh_income": 90316.0
+  },
+  {
+   "zip5": "80235",
+   "premises": 789,
+   "pool": 1,
+   "pool_share_pct": 0.1267427122940431,
+   "median_hh_income": 70484.0
+  },
+  {
+   "zip5": "80238",
+   "premises": 7831,
+   "pool": 1,
+   "pool_share_pct": 0.012769761205465458,
+   "median_hh_income": 180940.0
+  },
+  {
+   "zip5": "80230",
+   "premises": 1980,
+   "pool": 1,
+   "pool_share_pct": 0.050505050505050504,
+   "median_hh_income": 99750.0
+  },
+  {
+   "zip5": "80231",
+   "premises": 4606,
+   "pool": 1,
+   "pool_share_pct": 0.021710811984368215,
+   "median_hh_income": 76502.0
+  },
+  {
+   "zip5": "80123",
+   "premises": 2807,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 105932.0
+  },
+  {
+   "zip5": "80229",
+   "premises": 3478,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 84203.0
+  },
+  {
+   "zip5": "80239",
+   "premises": 10041,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 98148.0
+  },
+  {
+   "zip5": "80249",
+   "premises": 10663,
+   "pool": 0,
+   "pool_share_pct": 0.0,
+   "median_hh_income": 100324.0
+  }
+ ]
+}
