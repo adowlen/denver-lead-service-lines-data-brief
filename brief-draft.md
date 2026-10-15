@@ -74,5 +74,39 @@ Pool share of city premises by parcel year built, as recorded in the file:
 - 1961 to 1975: 271 of 22,062, 1.2 percent
 - 1976 or later: 1,272 of 52,321, 2.4 percent
 
-Premises on parcels built in 1950 or earlier hold 14,478 of the city's 18,775 pool premises, 77
-...[truncated 7462 chars]
+Premises on parcels built in 1950 or earlier hold 14,478 of the city's 18,775 pool premises, 77.1 percent. The remaining 4,297 sit on parcels built after 1950, and the share falls off a cliff at the 1951 line: 20.1 percent for the 1941 to 1950 era against 6.6 percent for 1951 to 1960 and 1.2 percent for 1961 to 1975.
+
+## Finding 6: The recorded replacement pace clears the required rate, but the public record stops in May 2024
+
+Denver Water's published replacements layer holds 24,748 replacement records, 24,746 of them with parseable dates running from January 1, 2020 to May 2, 2024. The dated records by year are 5,533 in 2020, 4,848 in 2021, 5,150 in 2022 and 6,906 in 2023, an average of 5,609 per full year across 2020 to 2023, plus 2,309 in the partial 2024 the layer covers. Nearly all of the work is full replacement: 22,536 records are full replacements, and the largest project type is the Lead Reduction Program itself (17,387 records under the program label). The records join cleanly to the current inventory: of the replacement rows that carry a premise ID, 99.7 percent match a premise in the June 30, 2026 inventory, and 23,942 of the joined premises are now classified non-lead.
+
+Against the remaining pool, the arithmetic of the deadlines is this. Clearing the 21,426 pool premises counted in the June 30, 2026 inventory by the end of 2034, ahead of Denver Water's stated pre-2035 finish, would take an average of 2,521 premises per year over the 8.5 years remaining. Clearing the same pool by the end of 2037, the federal Lead and Copper Rule Improvements deadline Colorado follows, would take 1,863 per year over 11.5 years; clearing only the 11,400 confirmed premises by that deadline would take 991 per year. Each of those required rates is below the 5,609 per full year the published layer records for 2020 to 2023.
+
+Denver Water's own program reporting, separate from the layer, puts the program's progress higher: the utility reported more than 26,000 lead service lines replaced as of July 1, 2024, against a total program estimate of 60,000 to 64,000 lines system-wide, revised down from an initial estimate of 64,000 to 84,000 (Denver Water program pages, as read for this brief and itemized in the source audit).
+
+The limit on all of this is the layer itself. It holds no dated records after May 2, 2024, so the replacement rate for 2025 and 2026 is not in the public data, and no figure in this brief measures it. The pace comparison above is between a recorded 2020 to 2023 average and the rates the two deadlines require; it is not a measurement of the current rate.
+
+## Finding 7: At ZIP code level, the remaining pool is not concentrated in low-income areas
+
+Layering Census Bureau ACS 2024 5-year median household income by ZIP code onto the inventory (derived) gives a result that runs against the usual assumption for lead programs. Across the ZIP codes in the service area, the pool share of premises correlates positively with median household income, at +0.30. The average pool premise sits in a ZIP code with a weighted median household income of $110,615, against $100,977 for the average premise overall. The pool tracks the age of the housing stock, and Denver's pre-1951 housing includes some of its highest-income neighborhoods: the five neighborhoods where the pool is more than half of all premises include Country Club and Cheesman Park alongside Platte Park and Rosedale.
+
+The limit is printed with the finding: these are ZIP codes, not households. A ZIP-level correlation says where the remaining lines are; it does not say anything about the income of the individual households that will schedule each replacement, and current incomes are not the incomes of the era when the lines were laid.
+
+## What this might mean
+
+Read together, the findings describe two different remaining jobs wearing one label. In the south-central neighborhoods (Platte Park, Rosedale, Washington Park) the pool is mostly confirmed lines: a construction workload with known addresses. In Country Club, the University Hills area, the Park Hill neighborhoods and Wheat Ridge, the pool is mostly unconfirmed: an investigation workload that has to run before the construction workload can even be sized. The strongest alternative explanation for the second group is that a large share of its likely premises will resolve to non-lead when investigated, which would shrink the effective pool without a single replacement; on that reading, today's likely counts are an upper bound on work remaining in those areas, not a measure of it. Either way, the binding constraint the public data shows is identification, and the federal rule requires exactly that: every unknown-material line must be identified by the replacement deadline.
+
+## Who can act
+
+- **Denver Water** controls the two levers the data points at: the investigation queue for the 24,693 premises still in an unknown category, and the public record of the work. The published replacements layer ends May 2, 2024; extending it is what would let anyone outside the utility measure the current pace.
+- **Denver City Council members for Districts 6, 7 and 10**, whose districts hold the largest pool counts and shares (District 6: 4,532 premises, 27.4 percent of its inventoried premises), can ask for district-level investigation and replacement schedules in budget and oversight settings.
+- **The Colorado Department of Public Health and Environment** oversees the state timeline the federal rule sets: a baseline service line inventory is due November 1, 2027, full replacement of lead and galvanized-requiring-replacement lines is due by the end of 2037, and the rule sets a minimum cumulative-average replacement rate of 10 percent once the replacement period runs.
+- **Homeowners and buyers** can check any individual premise in Denver Water's published inventory, which is address-level public data; the category recorded for a premise is the starting point for scheduling an investigation or a replacement.
+
+## Methods and caveats
+
+- **Categories.** The confirmed category is Denver Water's own label and, by the utility's own description, includes galvanized lines that are or were downstream of a lead line (galvanized-requiring-replacement), which matches the federal definition of the replacement obligation. The program pool (confirmed plus likely) is this brief's construct, built from the file's own program labels: both categories carry "included in the Lead Reduction Program" in the source.
+- **Category definitions changed in October 2024.** During the federal rule transition, the public inventory's categories were streamlined from four to three, moving about 17,000 premises carried as unlikely into the broader Unknown display category. Counts in this brief use the inventory file's underlying labels as of the June 30, 2026 snapshot and are not comparable to counts published from the public map before that change.
+- **The replacements layer ends May 2, 2024.** Every pace statement in this brief is bounded by that window, and the current replacement rate is not measurable from public data. That gap is a finding of this brief, not a footnote to it.
+- **Joins.** Neighborhood, district and ZIP figures use the fields recorded in the inventory file itself. The district field is assigned for 171,265 of the 187,289 city premises. Parcel year built is missing or zero for 7,982 city premises, which are excluded from the era table. The income layer joins at ZIP code to ACS ZCTA geography; 47 of the 62 ZIP strings in the file matched a ZCTA with an income estimate.
+- **Replacements join.** 736 rows in the replacements layer share a premise ID with another row (repeat work at one premise); the layer's 24,013 premise-ID rows match the current inventory at 99.7 percent after normalizing the inventory's zero-padded premise IDs.
